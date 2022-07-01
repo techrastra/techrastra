@@ -1,7 +1,7 @@
 - 👋 Hi, We're @techrastra
-- 👀 We Design and Develop Websites/Softwares ...
+- 👀 We Design and Develop Websites/Softwares/
 - 🌱 We're Digital Marketing Agency in Nepal
-- 📫 You can reach us through our website [Tech Rastra] (https://www.techrastra.com)
+- 📫 You can reach us through our website [Tech Rastra](https://www.techrastra.com)
 
 <!---
 techrastra/techrastra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
