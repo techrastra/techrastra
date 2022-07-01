@@ -1,5 +1,5 @@
 - 👋 Hi, We're @techrastra
-- 👀 We Design and Develop Websites/Softwares/
+- 👀 We Design and Develop Websites/Softwares.
 - 🌱 We're Digital Marketing Agency in Nepal
 - 📫 You can reach us through our [Official Website](https://www.techrastra.com)
 
